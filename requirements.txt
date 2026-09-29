@@ -13,3 +13,4 @@ duckduckgo-search
 Wikipedia 
 groq
 tavily-python
+python-dotenv
