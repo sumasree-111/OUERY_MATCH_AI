@@ -1,0 +1,15 @@
+# NEE REQUIREMENTS.TXT FINAL UPDATED
+streamlit
+sentence-transformers
+scikit-learn
+numpy
+pandas
+streamlit-extras
+streamlit-elements
+Pillow
+requests
+plotly
+duckduckgo-search
+Wikipedia 
+groq
+tavily-python
